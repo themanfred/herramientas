@@ -2,4 +2,26 @@
 
 
 ##  5 habilidades técnicas solicitadas para trabajar como desarrollador móvil
-> - *Organización* Y es por esta misma razón que hay que ser especialmente organizado. La planificación es imprescindible en los proyectos de desarrollo. De hecho, es impor
+> - **Organización:** Es importante contar con una buena planificación, pero hay que tener claro que el proceso de desarrollo en sí puede ser especialmente pesado, en el sentido de que tienen que llevarse a cabo muchos ensayos e intentos fallidos. 
+> - **Creatividad:** La creatividad es un factor imprescindible a la hora de trabajar en el desarrollo de aplicaciones. Si bien la parte del desarrollo es rígida y los procesos deben ejecutarse al milímetro, ser creativos es fundamental para innovar. 
+> - **Inteligencia:** Y es por esta misma razón que hay que ser especialmente organizado. La planificación es imprescindible en los proyectos de desarrollo. De hecho, es impor
+> - **Flexibilidad:**Y es por esta misma razón que hay que ser especialmente organizado. La planificación es imprescindible en los proyectos de desarrollo. De hecho, es impor
+> - **Perseverancia:** Es importante contar con una buena planificación, pero hay que tener claro que el proceso de desarrollo en sí puede ser especialmente pesado, en el sentido de que tienen que llevarse a cabo muchos ensayos e intentos fallidos.
+
+
+## Comandos de MAC
+
+> Comando - X: Cortar el elemento seleccionado y copiarlo en el Portapapeles.
+> Comando - C: Copie el elemento seleccionado en el Portapapeles. Esto también funciona para archivos en el Finder.
+> Comando - V: Pegue el contenido del Portapapeles en el documento o aplicación actual. Esto también funciona para archivos en el Finder.
+> Comando - Z: Deshacer el comando anterior. Luego puede presionar Mayús - Comando - Z para Rehacer, invirtiendo el comando deshacer. En algunas aplicaciones, puede deshacer y rehacer múltiples comandos.
+> Comando - A: Seleccione todos los artículos.
+> Comando - F: Encuentre elementos en un documento o abra una ventana Buscar.
+> Comando - G: Buscar de nuevo: encuentre la próxima aparición del artículo encontrado anteriormente. Para encontrar la ocurrencia anterior, presione Mayús - Comando - G.
+> Comando - H: Ocultar las ventanas de la aplicación frontal. Para ver la aplicación frontal pero ocultar todas las demás aplicaciones, presione la Opción - Comando - H.
+> Comando - M: Minimice la ventana frontal al muelle. Para minimizar todas las ventanas de la aplicación frontal, presione la Opción - Comando - M.
+> Comando - O: Abra el elemento seleccionado o abra un cuadro de diálogo para seleccionar un archivo para abrir.
+> Comando - P: Imprima el documento actual.
+> Comando - S: Guarde el documento actual.
+> Comando - T: Abra una nueva pestaña.
+> Comando - W: Cierra la ventana delantera. Para cerrar todas las ventanas de la aplicación, presione la
