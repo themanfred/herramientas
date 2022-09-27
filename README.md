@@ -20,11 +20,5 @@
 > - Comando - Z: Deshacer el comando anterior. Luego puede presionar Mayús - Comando - Z para Rehacer, invirtiendo el comando deshacer. En algunas aplicaciones, puede deshacer y rehacer múltiples comandos.
 >-  Comando - A: Seleccione todos los artículos.
 > - Comando - F: Encuentre elementos en un documento o abra una ventana Buscar.
-> - Comando - G: Buscar de nuevo: encuentre la próxima aparición del artículo encontrado anteriormente. Para encontrar la ocurrencia anterior, presione Mayús - Comando - G.
-> Comando - H: Ocultar las ventanas de la aplicación frontal. Para ver la aplicación frontal pero ocultar todas las demás aplicaciones, presione la Opción - Comando - H.
-> Comando - M: Minimice la ventana frontal al muelle. Para minimizar todas las ventanas de la aplicación frontal, presione la Opción - Comando - M.
-> Comando - O: Abra el elemento seleccionado o abra un cuadro de diálogo para seleccionar un archivo para abrir.
-> Comando - P: Imprima el documento actual.
-> Comando - S: Guarde el documento actual.
-> Comando - T: Abra una nueva pestaña.
-> Comando - W: Cierra la ventana delantera. Para cerrar todas las ventanas de la aplicación, presione la
+> - Comando - G: Buscar de nuevo: encuentre la próxima aparición del artículo encontrado anteriormente. Para encontrar la ocurrencia anterior
+> - Comando - W: Cierra la ventana delantera. Para cerrar todas las ventanas de la aplicación, presione la
