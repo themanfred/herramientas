@@ -2,6 +2,8 @@
 
 
 ##  5 habilidades técnicas solicitadas para trabajar como desarrollador móvil
+ ![image](https://hrmcdn-13a1c.kxcdn.com/images/hr-sg/content-images/arina_nov_remote_working_wfh_pandemic_hybrid_work_123rf.jpg )
+ 
 > - **Organización:** Es importante contar con una buena planificación, pero hay que tener claro que el proceso de desarrollo en sí puede ser especialmente pesado, en el sentido de que tienen que llevarse a cabo muchos ensayos e intentos fallidos. 
 > - **Creatividad:** La creatividad es un factor imprescindible a la hora de trabajar en el desarrollo de aplicaciones. Si bien la parte del desarrollo es rígida y los procesos deben ejecutarse al milímetro, ser creativos es fundamental para innovar. 
 > - **Inteligencia:** Y es por esta misma razón que hay que ser especialmente organizado. La planificación es imprescindible en los proyectos de desarrollo. De hecho, es impor
@@ -10,6 +12,7 @@
 
 
 ## Comandos de MAC
+ ![image](https://s3.amazonaws.com/helpjuice-static/helpjuice_production%2Fuploads%2Fupload%2Fimage%2F7944%2Fdirect%2F1610958113191-Screenshot+2021-01-18+at+10.13.28.png)
 
 > Comando - X: Cortar el elemento seleccionado y copiarlo en el Portapapeles.
 > Comando - C: Copie el elemento seleccionado en el Portapapeles. Esto también funciona para archivos en el Finder.
