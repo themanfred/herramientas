@@ -14,13 +14,13 @@
 ## Comandos de MAC
  ![image](https://s3.amazonaws.com/helpjuice-static/helpjuice_production%2Fuploads%2Fupload%2Fimage%2F7944%2Fdirect%2F1610958113191-Screenshot+2021-01-18+at+10.13.28.png)
 
-> Comando - X: Cortar el elemento seleccionado y copiarlo en el Portapapeles.
-> Comando - C: Copie el elemento seleccionado en el Portapapeles. Esto también funciona para archivos en el Finder.
-> Comando - V: Pegue el contenido del Portapapeles en el documento o aplicación actual. Esto también funciona para archivos en el Finder.
-> Comando - Z: Deshacer el comando anterior. Luego puede presionar Mayús - Comando - Z para Rehacer, invirtiendo el comando deshacer. En algunas aplicaciones, puede deshacer y rehacer múltiples comandos.
-> Comando - A: Seleccione todos los artículos.
-> Comando - F: Encuentre elementos en un documento o abra una ventana Buscar.
-> Comando - G: Buscar de nuevo: encuentre la próxima aparición del artículo encontrado anteriormente. Para encontrar la ocurrencia anterior, presione Mayús - Comando - G.
+> - Comando - X: Cortar el elemento seleccionado y copiarlo en el Portapapeles.
+> - Comando - C: Copie el elemento seleccionado en el Portapapeles. Esto también funciona para archivos en el Finder.
+> - Comando - V: Pegue el contenido del Portapapeles en el documento o aplicación actual. Esto también funciona para archivos en el Finder.
+> - Comando - Z: Deshacer el comando anterior. Luego puede presionar Mayús - Comando - Z para Rehacer, invirtiendo el comando deshacer. En algunas aplicaciones, puede deshacer y rehacer múltiples comandos.
+>-  Comando - A: Seleccione todos los artículos.
+> - Comando - F: Encuentre elementos en un documento o abra una ventana Buscar.
+> - Comando - G: Buscar de nuevo: encuentre la próxima aparición del artículo encontrado anteriormente. Para encontrar la ocurrencia anterior, presione Mayús - Comando - G.
 > Comando - H: Ocultar las ventanas de la aplicación frontal. Para ver la aplicación frontal pero ocultar todas las demás aplicaciones, presione la Opción - Comando - H.
 > Comando - M: Minimice la ventana frontal al muelle. Para minimizar todas las ventanas de la aplicación frontal, presione la Opción - Comando - M.
 > Comando - O: Abra el elemento seleccionado o abra un cuadro de diálogo para seleccionar un archivo para abrir.
